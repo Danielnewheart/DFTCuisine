@@ -1,0 +1,36 @@
+.footer {
+    background-color: black;
+    margin: 0;
+}
+
+.footer-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+    padding: 2rem 0;
+    margin: 0;
+}
+
+.footer-nav_item {
+    font-size: 1rem;
+
+    list-style-type: none;
+}
+
+.footer-nav_link {
+    color: white;
+}
+
+.footer-nav_link:hover,
+.footer-nav_link:focus {
+    color: #ff9d25;
+}
+
+@media (min-width: 55rem) {
+    .footer-nav {
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 2rem 4rem;
+    }
+}

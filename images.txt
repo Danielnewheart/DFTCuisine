@@ -1,0 +1,19 @@
+Unsplash Licence: https://unsplash.com/license
+
+logo.png: (Owner) Hao-Wei Kao 
+logo_background.jpg: (Owner) Hao-Wei Kao 
+hero.jpg: https://unsplash.com/photos/person-grilling-hotdogs-DUHm2tqge9M
+bao.jpg: https://unsplash.com/photos/person-in-blue-and-red-long-sleeve-shirt-holding-brown-wooden-tray-with-cookies-QZLdtZMI8zc
+bobaTea.jpg: https://unsplash.com/photos/blue-and-white-ceramic-cup-GC8ZfT8qjfc
+bigSausageWrapSmallSausage.jpg: https://unsplash.com/photos/a-man-standing-in-front-of-a-hot-dog-stand-HATUqAeNCwQ
+snack.jpg: https://unsplash.com/photos/man-in-gray-top-sitting-on-chair-beside-store-facade-L118qJxBhhY
+tanghulu.jpg: https://unsplash.com/photos/red-round-candies-on-white-textile-kirdayTFhbY
+stinkyTofu.jpg: https://unsplash.com/photos/a-plate-of-food-2PmAbJn8s6E
+beefNoodle.jpg: https://unsplash.com/photos/white-ceramic-bowl-with-soup-and-green-leaves-rcHHKG01IPY
+xiaoLongBao: https://unsplash.com/photos/steamed-buns-on-brown-wooden-steamer-ZD-DQ37hb6c
+lemonAiYu: https://unsplash.com/photos/a-bowl-of-lemons-PDqo6Bw8AXA
+pineappleBread: https://unsplash.com/photos/shallow-focus-photo-of-gray-pastry-fhT1fqukEK8
+taiwaneseDryNoodles: https://unsplash.com/photos/a-plate-of-noodles-on-a-black-tablecloth-pXTUcX87wv0
+zongzi.jpg: https://unsplash.com/photos/a-plate-with-a-piece-of-food-on-it-bOU9EQKrylw
+
+
